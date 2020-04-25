@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PassingData</string>
+    <string name="scrivi_qui_il_tuo_nome">Scrivi qui il tuo nome:</string>
+    <string name="mario_rossi">Mario Rossi</string>
+    <string name="reset">Reset</string>
+    <string name="test">Test</string>
+    <string name="play">PLAY</string>
+    <string name="textview">TextView</string>
+</resources>
